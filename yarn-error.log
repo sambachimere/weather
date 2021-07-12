@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/sambadiaw/.nvm/versions/node/v14.15.0/bin/node /Users/sambadiaw/.nvm/versions/node/v14.15.0/bin/yarnpkg install
+  /Users/sambadiaw/.nvm/versions/node/v14.15.0/bin/node /Users/sambadiaw/.nvm/versions/node/v14.15.0/bin/yarn
 
 PATH: 
   /Users/sambadiaw/.nvm/versions/node/v14.15.0/bin:./bin:./node_modules/.bin:/Users/sambadiaw/.rbenv/shims:/Users/sambadiaw/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/usr/local/sbin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: getaddrinfo ENOTFOUND github.com
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
       at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
 
 npm manifest: 
